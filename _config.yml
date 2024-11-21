@@ -7,17 +7,17 @@ baseurl: "/TareaU9" # the subpath of your site, e.g. /blog
 url: "https://fjgonzalezl01.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Adam Neilson # add your name
-author-pic: adam-face.jpg
-about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+author: Francisco J. González # add your name
+author-pic: foto-perfil.png
+about-author: Mi nombre es Francisco J. González. Este blog forma parte de la actividad de la Unidad 9 del curso de GitHub.
 
 # Contact links
-email: # Add your Email address
-phone: # Add your Phone number
-website: # Add your website, do not add http://
+email: fjgonzalezl01@larioja.edu.es # Add your Email address
+phone: 999 99 99 99# Add your Phone number
+website: https://fjgonzalezl01.github.io # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+github: fjgonzalezl01 # Add your Github handle
+twitter: # Add your Twitter handle
 facebook: # Add your Facebook handle
 instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle
